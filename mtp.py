@@ -605,7 +605,7 @@ def main():
     load_in_4bit = True
 
 
-    ga_population_size_usr = 4
+    ga_population_size_usr = 200
     ga_num_generations_usr = 3
     ga_max_steps_per_eval_usr = 5
     ga_dataset_rows_per_eval_usr = 10
